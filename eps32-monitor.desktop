@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ESP32 DHT22 Monitor
+Comment=ESP32 sensor data viewer
+Exec=python3 /polku/sinun/kansioon/dht_monitor_final.py
+Icon=utilities-monitor
+Terminal=false
+Categories=Utility;
